@@ -48,8 +48,17 @@ CUT은 해마다 움직입니다.
 
 ### 4. 학교별로 직접 확인하는 방법
 학교별 전형 분석과 1단계 CUT은 메디컬즈 '전국 편입 지도'에 모두 정리해두었습니다.
+
+![메디컬즈 전국 편입 지도](https://raw.githubusercontent.com/vfmedicalschool-ux/vf-factcheck/main/posts/img/toeic-985/01.png)
+
 지도에서 학교를 누르면 전형 분석과 CUT 분석을 볼 수 있고,
+
+![충남대 약대 카드 — 1단계 예상 컷 TOEIC 990](https://raw.githubusercontent.com/vfmedicalschool-ux/vf-factcheck/main/posts/img/toeic-985/02.png)
+
 '1단계 통과 계산기'에 본인의 학점과 영어 점수를 입력하면 학교별로 바로 확인할 수 있습니다.
+
+![목포대 약대 1단계 통과 계산기 — 백분율 98 / 토익 975 예시](https://raw.githubusercontent.com/vfmedicalschool-ux/vf-factcheck/main/posts/img/toeic-985/03.png)
+
 (27년 2월 말까지 로그인 회원은 무료로 이용 가능합니다.)
 https://medicalz.co.kr/admissions/map
 
